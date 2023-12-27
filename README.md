@@ -11,6 +11,8 @@ Template base to start new odoo vsf projects using vsf SDK
 
 ## How to start ?
 
+Run the following commands:
+
 ```sh
 2. yarn install
 3. copy apps/web/.env.example to apps/web/.env
